@@ -1,4 +1,4 @@
-# udemy-git-course
+## udemy-git-course
 
 # Deployment notes
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
